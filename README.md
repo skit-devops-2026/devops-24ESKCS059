@@ -114,3 +114,8 @@ and helps organize donor donation information.
 
 The Hospital Management module maintains hospital-related
 information and supports blood request management.
+## Development Status
+
+- Core Blood Bank Management modules are implemented
+- Project source code is maintained using Git and GitHub
+- Automated CI pipeline is configured for PHP syntax checking and project test
