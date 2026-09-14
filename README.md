@@ -95,3 +95,11 @@ for managing blood donors, blood stock, donations and blood requests.
 - Improved donor search
 - Blood availability updates
 - Better notification system
+## Project Goals
+
+- Maintain donor information efficiently
+- Manage available blood stock
+- Record blood donations
+- Manage blood requests
+- Maintain hospital information
+- Make blood-related information easy to search
