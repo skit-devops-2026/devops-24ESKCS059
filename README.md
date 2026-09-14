@@ -89,3 +89,9 @@ for managing blood donors, blood stock, donations and blood requests.
 ## Author
 
 24ESKCS059
+## Future Scope
+
+- Online blood request management
+- Improved donor search
+- Blood availability updates
+- Better notification system
