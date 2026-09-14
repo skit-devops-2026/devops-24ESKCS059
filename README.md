@@ -119,3 +119,11 @@ information and supports blood request management.
 - Core Blood Bank Management modules are implemented
 - Project source code is maintained using Git and GitHub
 - Automated CI pipeline is configured for PHP syntax checking and project test
+## Testing
+
+The project uses an automated CI pipeline to check PHP syntax
+and verify the required Blood Bank Management project structure.
+## Maintenance
+
+The project can be updated and maintained using Git and GitHub.
+Changes can be tested through the automated CI pipeline before further development.
