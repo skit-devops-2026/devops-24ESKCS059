@@ -19,7 +19,10 @@ and efficient way.
 - Reports
 - Notifications
 - Admin Management
+## Blood Stock Management
 
+The Blood Stock module helps manage available blood groups and
+maintain blood stock information in the Blood Bank Management System.
 ## Technologies Used
 
 - HTML
