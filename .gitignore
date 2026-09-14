@@ -1,0 +1,20 @@
+# Environment / configuration
+.env
+
+# PHP dependencies
+/vendor/
+
+# Logs
+*.log
+
+# IDE files
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
