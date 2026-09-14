@@ -1,4 +1,4 @@
-name: Blood Bank CI
+name: Blood Bank CI Pipeline
 
 on:
   push:
