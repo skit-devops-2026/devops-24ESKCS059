@@ -1,0 +1,25 @@
+body {
+    background-color: #f5f6f8;
+}
+.sidebar .nav-link.active {
+    background-color: #dc3545;
+}
+.sidebar .nav-link:hover {
+    background-color: rgba(255,255,255,0.1);
+}
+.card-stat {
+    border-left: 4px solid #dc3545;
+}
+.login-wrapper {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(135deg, #dc3545, #6c0d1a);
+}
+table.dataTable-simple th {
+    white-space: nowrap;
+}
+@media print {
+    .no-print { display: none !important; }
+}
