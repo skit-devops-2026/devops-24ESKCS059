@@ -127,3 +127,8 @@ and verify the required Blood Bank Management project structure.
 
 The project can be updated and maintained using Git and GitHub.
 Changes can be tested through the automated CI pipeline before further development.
+## Deployment Notes
+
+The Blood Bank Management System is designed to run in a PHP environment
+with a MySQL database. The application can be deployed using a suitable
+PHP web server after configuring the database connection.
