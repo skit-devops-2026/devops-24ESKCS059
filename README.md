@@ -106,3 +106,7 @@ for managing blood donors, blood stock, donations and blood requests.
 - Manage blood requests
 - Maintain hospital information
 - Make blood-related information easy to search
+## Donation Management
+
+The Donation Management module maintains records of blood donations
+and helps organize donor donation information.
