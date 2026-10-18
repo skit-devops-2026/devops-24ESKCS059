@@ -132,3 +132,12 @@ Changes can be tested through the automated CI pipeline before further developme
 The Blood Bank Management System is designed to run in a PHP environment
 with a MySQL database. The application can be deployed using a suitable
 PHP web server after configuring the database connection.
+## Monitoring
+
+This project uses Prometheus and Grafana for monitoring.
+
+- Prometheus: http://localhost:9090
+- Grafana: http://localhost:3000
+- Metrics endpoint: http://localhost:8081/metrics.php
+
+The Grafana dashboard displays the `bloodbank_app_up` health metric.
