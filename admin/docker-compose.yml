@@ -1,0 +1,10 @@
+
+services:
+  bloodbank:
+    build:
+      context: ..
+      dockerfile: admin/Dockerfile
+    container_name: bloodbank_app
+    ports:
+      - "8081:80"
+    restart: unless-stopped
