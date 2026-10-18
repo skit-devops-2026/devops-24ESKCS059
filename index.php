@@ -26,11 +26,10 @@ if (isset($_SESSION['public_user_id'])) {
       <i class="bi bi-droplet-fill text-danger" style="font-size:3.5rem;"></i>
       <h3 class="mt-2 mb-1">Blood Bank Management System</h3>
       <p class="text-muted mb-4">Request blood, offer to donate, or manage the blood bank.</p>
+<a href="/public/login.php" class="btn btn-danger w-100 mb-2">Sign In (Need / Donate Blood)</a>
+<a href="/public/register.php" class="btn btn-outline-danger w-100 mb-3">Create an Account</a>
 
-      <a href="/bloodbank_management_system/bloodbank/public/login.php" class="btn btn-danger w-100 mb-2">Sign In (Need / Donate Blood)</a>
-      <a href="/bloodbank_management_system/bloodbank/public/register.php" class="btn btn-outline-danger w-100 mb-3">Create an Account</a>
-
-      <hr>
+<hr>
       <a href="/bloodbank_management_system/bloodbank/admin/login.php" class="small text-muted">Admin Login</a>
     </div>
   </div>
